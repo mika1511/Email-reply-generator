@@ -16,5 +16,5 @@ An AI-powered Email Reply Generator built with **React + Vite** on the frontend 
 ### 📝 **Input Email Prompt**  
 <img src="images/generator.png" alt="Prompt Input Page" width="800">
 
-### 🔍 **AI-Generated Reply**  
+### 🔍 **Different Tone**  
 <img src="images/promt.png" alt="AI Reply Output" width="600">
