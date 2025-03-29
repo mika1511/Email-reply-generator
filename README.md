@@ -9,9 +9,9 @@ Tone Selection: Choose from Friendly, Professional, or Casual tones for your res
 Seamless Integration: Built using React + Vite for a fast UI and Spring Boot for AI-based processing.
 
 🖼️ Screenshots
-🟢 Landing Page
-<img src="images/Landing page.png" alt="Landing Page" width="600">
-📝 Input Email Prompt
-<img src=".images/generator.png" alt="Prompt Input Page" width="600">
-🔍 AI-Generated Reply
+
+<img src="images/Landing page.png" alt="Landing Page" width="800">
+
+<img src="images/generator.png" alt="Prompt Input Page" width="400">
+
 <img src="images/promt.png" alt="AI Reply Output" width="600">
