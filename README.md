@@ -1,0 +1,17 @@
+📧 AI Email Reply Generator
+An AI-powered Email Reply Generator built with React + Vite on the frontend and Spring Boot on the backend. This tool allows users to input an email prompt and generate replies in three different tones: Friendly, Professional, or Casual.
+
+📝 Overview
+Dynamic Replies: Input any email prompt and get AI-generated replies in different communication styles.
+
+Tone Selection: Choose from Friendly, Professional, or Casual tones for your responses.
+
+Seamless Integration: Built using React + Vite for a fast UI and Spring Boot for AI-based processing.
+
+🖼️ Screenshots
+🟢 Landing Page
+<img src="./images/app_running.png" alt="Landing Page" width="600">
+📝 Input Email Prompt
+<img src="./images/email_prompt.png" alt="Prompt Input Page" width="600">
+🔍 AI-Generated Reply
+<img src="./images/generator_output.png" alt="AI Reply Output" width="600">
