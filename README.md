@@ -10,8 +10,8 @@ Seamless Integration: Built using React + Vite for a fast UI and Spring Boot for
 
 🖼️ Screenshots
 🟢 Landing Page
-<img src="./images/app_running.png" alt="Landing Page" width="600">
+<img src="images/Landing page.png" alt="Landing Page" width="600">
 📝 Input Email Prompt
-<img src="./images/email_prompt.png" alt="Prompt Input Page" width="600">
+<img src=".images/generator.png" alt="Prompt Input Page" width="600">
 🔍 AI-Generated Reply
-<img src="./images/generator_output.png" alt="AI Reply Output" width="600">
+<img src="images/promt.png" alt="AI Reply Output" width="600">
